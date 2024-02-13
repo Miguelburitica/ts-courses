@@ -10,6 +10,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@ngneat/falso": "^7.1.1",
+    "@types/chance": "^1.1.6",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "class-validator": "^0.14.1"
   }
 }
